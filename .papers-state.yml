@@ -4,7 +4,7 @@ backfill:
     covered_from: '2018-01-01T00:00:00Z'
   huggingface:
     continuation:
-      cursor: eyJkYXRlIjoiMjAyNS0xMi0wMyIsInBhZ2UiOjAsInNvdXJjZV9jb25zdW1lZCI6Njg4Nn0
+      cursor: eyJkYXRlIjoiMjAyNS0xMC0wNiIsInBhZ2UiOjAsInNvdXJjZV9jb25zdW1lZCI6ODE4NX0
       window_end: '2026-09-22T15:40:08.595262Z'
       window_start: '2025-09-22T15:40:08.595262Z'
     covered_from: '2026-09-22T15:40:08.595262Z'
