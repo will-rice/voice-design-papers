@@ -1,0 +1,50 @@
+repository:
+  name: "Voice Design Papers"
+  slug: "voice-design-papers"
+  description: "Voice design research papers"
+adapters:
+  - name: arxiv
+    enabled: true
+    secret_env: null
+    lookback_days: 8
+    backfill_start: 2018-01-01
+    backfill_days: 365
+    page_size: 200
+    max_pages: 10
+    max_results: 2000
+    filters:
+      search_query: "ti:\"voice design\" OR abs:\"voice design\" OR ti:\"speaker generation\" OR abs:\"speaker generation\" OR ti:\"text-to-voice\" OR abs:\"text-to-voice\" OR ti:\"text to voice\" OR abs:\"text to voice\" OR ti:\"voice creation\" OR abs:\"voice creation\" OR ti:\"speaker creation\" OR abs:\"speaker creation\" OR ti:\"timbre generation\" OR abs:\"timbre generation\" OR ti:\"voice description\" OR abs:\"voice description\" OR ti:\"speaker description\" OR abs:\"speaker description\" OR ti:\"text-described\" OR abs:\"text-described\" OR ti:\"description-based voice\" OR abs:\"description-based voice\" OR ti:\"description-based speaker\" OR abs:\"description-based speaker\" OR ti:\"non-existent speaker\" OR abs:\"non-existent speaker\" OR ti:\"nonexistent speaker\" OR abs:\"nonexistent speaker\" OR (abs:\"natural language description\" AND abs:\"speech synthesis\") OR (abs:\"natural language description\" AND abs:\"text-to-speech\")"
+  - name: huggingface
+    enabled: true
+    secret_env: null
+    lookback_days: 8
+    backfill_start: 2023-05-04
+    backfill_days: 365
+    page_size: 100
+    max_pages: 100
+    max_results: 2000
+    filters: {}
+topic:
+  include_any: []
+  include_all: []
+  exclude_any: []
+  categories: []
+  plugin: "topic_plugin:accept_topic"
+fetch:
+  request_timeout_seconds: 30
+  retries: 3
+  backoff_seconds: 1
+  total_deadline_seconds: 900
+conversion:
+  max_batches_per_run: 20
+  max_papers: 20
+  max_cost: 1000
+  timeout_seconds: 1800
+  html_cost: 2
+  latex_cost: 4
+  pdf_cost: 20
+  deadline_seconds: 10800
+concurrency:
+  html: 4
+  latex: 2
+  pdf: 1
