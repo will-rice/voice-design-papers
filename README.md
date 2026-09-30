@@ -3,10 +3,44 @@
 Standalone paper discovery and conversion for Voice design research papers.
 
 <!-- papers-index:start -->
+
 # Papers
 
-| Published | Identifier | Title | Source |
-| --- | --- | --- | --- |
+The 30 most recent of 37 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+
+| Published                 | Identifier         | Title                                                                                                                                             | Source |
+| ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 2026-09-11T15:05:20+00:00 | arxiv:2609.12945v1 | [StepAudio 3 Gen Technical Report](https://arxiv.org/abs/2609.12945v1)                                                                            | arxiv  |
+| 2026-08-18T08:19:46+00:00 | arxiv:2608.17492v2 | [FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations](https://arxiv.org/abs/2608.17492v2)        | arxiv  |
+| 2026-08-12T18:04:18+00:00 | arxiv:2608.13613v1 | [VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation](https://arxiv.org/abs/2608.13613v1)    | arxiv  |
+| 2026-07-14T12:28:43+00:00 | arxiv:2607.12706v2 | [AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling](https://arxiv.org/abs/2607.12706v2)         | arxiv  |
+| 2026-07-04T19:05:37+00:00 | arxiv:2607.03985v1 | [NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization](https://arxiv.org/abs/2607.03985v1)                                      | arxiv  |
+| 2026-06-05T15:38:08+00:00 | arxiv:2606.07397v1 | [Audio-Oscar: A Multi-Agent System for Complex Audio Scene Generation, Orchestration, and Refinement](https://arxiv.org/abs/2606.07397v1)         | arxiv  |
+| 2026-06-05T05:43:15+00:00 | arxiv:2606.06928v1 | [VoxCPM2 Technical Report](https://arxiv.org/abs/2606.06928v1)                                                                                    | arxiv  |
+| 2026-05-14T17:22:42+00:00 | arxiv:2605.15104v2 | [From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents](https://arxiv.org/abs/2605.15104v2)          | arxiv  |
+| 2026-04-09T15:27:22+00:00 | arxiv:2604.08363v1 | [CapTalk: Unified Voice Design for Single-Utterance and Dialogue Speech Generation](https://arxiv.org/abs/2604.08363v1)                           | arxiv  |
+| 2026-03-30T06:40:59+00:00 | arxiv:2603.28086v1 | [MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions](https://arxiv.org/abs/2603.28086v1)                             | arxiv  |
+| 2026-01-15T17:49:15+00:00 | arxiv:2601.10629v2 | [VoiceSculptor: Your Voice, Designed By You](https://arxiv.org/abs/2601.10629v2)                                                                  | arxiv  |
+| 2026-01-06T06:40:27+00:00 | arxiv:2601.02753v1 | [Vclip: Face-based Speaker Generation by Face-voice Association Learning](https://arxiv.org/abs/2601.02753v1)                                     | arxiv  |
+| 2026-01-04T10:06:50+00:00 | arxiv:2601.01459v1 | [OV-InstructTTS: Towards Open-Vocabulary Instruct Text-to-Speech](https://arxiv.org/abs/2601.01459v1)                                             | arxiv  |
+| 2025-11-23T15:15:21+00:00 | arxiv:2511.18487v1 | [InstructAudio: Unified speech and music generation with natural language instruction](https://arxiv.org/abs/2511.18487v1)                        | arxiv  |
+| 2025-11-09T06:11:30+00:00 | arxiv:2511.06246v3 | [IDMap: A Pseudo-Speaker Generator Framework Based on Speaker Identity Index to Vector Mapping](https://arxiv.org/abs/2511.06246v3)               | arxiv  |
+| 2025-09-30T06:31:12+00:00 | arxiv:2509.25842v1 | [HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis](https://arxiv.org/abs/2509.25842v1)        | arxiv  |
+| 2025-09-29T10:27:37+00:00 | arxiv:2509.24570v1 | [ISSE: An Instruction-Guided Speech Style Editing Dataset And Benchmark](https://arxiv.org/abs/2509.24570v1)                                      | arxiv  |
+| 2025-07-10T14:26:28+00:00 | arxiv:2507.07799v1 | [SecureSpeech: Prompt-based Speaker and Content Protection](papers/arxiv-2507-07799v1--7688d48dda29.md)                                           | arxiv  |
+| 2025-06-06T02:34:29+00:00 | arxiv:2506.05688v3 | [Voice Impression Control in Zero-Shot TTS](papers/arxiv-2506-05688v3--2f0bf6b7652a.md)                                                           | arxiv  |
+| 2025-05-12T14:25:20+00:00 | arxiv:2505.07916v1 | [MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder](papers/arxiv-2505-07916v1--113d6f2ff3ca.md)                 | arxiv  |
+| 2025-04-17T11:50:04+00:00 | arxiv:2504.12867v4 | [EmoVoice: LLM-based Emotional Text-To-Speech Model with Freestyle Text Prompting](papers/arxiv-2504-12867v4--bd86900fd719.md)                    | arxiv  |
+| 2025-01-11T00:47:29+00:00 | arxiv:2501.06394v1 | [Unispeaker: A Unified Approach for Multimodality-driven Speaker Generation](papers/arxiv-2501-06394v1--30b994ec5b0b.md)                          | arxiv  |
+| 2025-01-08T03:47:54+00:00 | arxiv:2501.04256v1 | [DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions](papers/arxiv-2501-04256v1--f663bcf01e38.md)               | arxiv  |
+| 2024-12-28T06:32:49+00:00 | arxiv:2412.20048v1 | [CrossSpeech++: Cross-lingual Speech Synthesis with Decoupled Language and Speaker Generation](papers/arxiv-2412-20048v1--bba836e23d7b.md)        | arxiv  |
+| 2024-12-09T15:36:37+00:00 | arxiv:2412.06581v3 | [EmoSpeech: A Corpus of Emotionally Rich and Contextually Detailed Speech Annotations](https://arxiv.org/abs/2412.06581v3)                        | arxiv  |
+| 2024-09-25T05:44:44+00:00 | arxiv:2409.16644v3 | [Enabling Auditory Large Language Models for Automatic Speech Quality Evaluation](papers/arxiv-2409-16644v3--250155746db3.md)                     | arxiv  |
+| 2024-08-24T15:36:08+00:00 | arxiv:2408.13608v1 | [SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description](papers/arxiv-2408-13608v1--3bb67abe51da.md)             | arxiv  |
+| 2024-08-17T14:47:05+00:00 | arxiv:2408.09215v1 | [Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition](papers/arxiv-2408-09215v1--2b517f346e42.md) | arxiv  |
+| 2024-06-30T17:01:36+00:00 | arxiv:2407.00766v1 | [An Attribute Interpolation Method in Speech Synthesis by Model Merging](papers/arxiv-2407-00766v1--a6ec1ea2a0c3.md)                              | arxiv  |
+| 2024-06-24T04:46:50+00:00 | arxiv:2406.16314v1 | [DreamVoice: Text-Guided Voice Conversion](papers/arxiv-2406-16314v1--6a98dae872f0.md)                                                            | arxiv  |
+
 <!-- papers-index:end -->
 
 ## Architecture

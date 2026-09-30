@@ -9,4 +9,10 @@ backfill:
       window_start: '2025-09-22T14:53:35.261864Z'
     covered_from: '2026-09-22T14:53:35.261864Z'
 continuations: {}
-failures: {}
+failures:
+  arxiv:2211.09407v1:
+  - error: 'conversion timed out after 1800s: marker_single'
+    occurred_at: '2026-09-30T14:53:45.851109Z'
+  arxiv:2412.06581v3:
+  - error: 'conversion input HTTP 404: https://arxiv.org/pdf/2412.06581v3'
+    occurred_at: '2026-09-30T14:53:45.851109Z'
