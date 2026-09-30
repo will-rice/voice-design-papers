@@ -17,10 +17,35 @@ from topic_plugin import accept_topic
             TopicDecision(True, "accepted"),
         ),
         (
-            "Text-to-Voice from Captions",
-            "We generate a new voice from a natural language description and"
-            " synthesize speech with it.",
+            "PromptSpeaker: Speaker Generation Based on Text Descriptions",
+            "A prompt encoder and zero-shot VITS synthesize the speaker's voice.",
             TopicDecision(True, "accepted"),
+        ),
+        (
+            "Natural language guidance of high-fidelity text-to-speech",
+            "Natural language prompting of speaker identity and style.",
+            TopicDecision(True, "accepted"),
+        ),
+        (
+            "Generating Data with Text-to-Speech for Speech Recognition",
+            "Multi-speaker generation of conversations with a TTS model.",
+            TopicDecision(False, "missing voice design signal"),
+        ),
+        (
+            "Copyright and AI Music",
+            "Users synthesize music with text prompts; new voice-cloning laws"
+            " regulate text-to-speech.",
+            TopicDecision(False, "missing voice design signal"),
+        ),
+        (
+            "Emotional TTS with Freestyle Text Prompting",
+            "A text prompt controls the emotion of text-to-speech output.",
+            TopicDecision(False, "missing voice design signal"),
+        ),
+        (
+            "Designing Robot Voices",
+            "A human-robot study of voice design with text-to-speech.",
+            TopicDecision(False, "matched excluded term: human-robot"),
         ),
         (
             "Designing a Voice User Interface",
@@ -33,8 +58,8 @@ from topic_plugin import accept_topic
             TopicDecision(False, "missing voice design signal"),
         ),
         (
-            "Image Retrieval",
-            "Matching images to a natural language description; see https://x.test.",
+            "Voice Creation Survey",
+            "A survey of voice creation tools for podcasts; see https://x.test.",
             TopicDecision(False, "missing speech synthesis signal"),
         ),
     ],
