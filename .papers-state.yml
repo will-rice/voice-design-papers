@@ -1,2 +1,12 @@
+backfill:
+  arxiv:
+    continuation: null
+    covered_from: '2021-09-23T14:53:35.261864Z'
+  huggingface:
+    continuation:
+      cursor: eyJkYXRlIjoiMjAyNi0wNy0yNCIsInBhZ2UiOjAsInNvdXJjZV9jb25zdW1lZCI6MTIyNX0
+      window_end: '2026-09-22T14:53:35.261864Z'
+      window_start: '2025-09-22T14:53:35.261864Z'
+    covered_from: '2026-09-22T14:53:35.261864Z'
 continuations: {}
 failures: {}
