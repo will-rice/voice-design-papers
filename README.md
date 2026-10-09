@@ -6,10 +6,11 @@ Standalone paper discovery and conversion for Voice design research papers.
 
 # Papers
 
-The 30 most recent of 50 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 51 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                              | Source      |
 | ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 2026-10-08T07:59:57+00:00 | arxiv:2610.11437v1 | [Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS](papers/arxiv-2610-11437v1--d90640788929.md)                 | arxiv       |
 | 2026-09-11T15:05:20+00:00 | arxiv:2609.12945v1 | [StepAudio 3 Gen Technical Report](papers/arxiv-2609-12945v1--5dbc3368bdc9.md)                                                                                     | arxiv       |
 | 2026-08-18T08:19:46+00:00 | arxiv:2608.17492v2 | [FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations](papers/arxiv-2608-17492v2--fd78dd27e680.md)                 | arxiv       |
 | 2026-08-12T18:04:18+00:00 | arxiv:2608.13613v1 | [VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation](papers/arxiv-2608-13613v1--74b393dc5b8a.md)             | arxiv       |
@@ -39,7 +40,6 @@ The 30 most recent of 50 papers. Every paper is listed in [papers.csv](papers.cs
 | 2025-05-24T09:16:14+00:00 | arxiv:2505.18609v2 | [RASMALAI: Resources for Adaptive Speech Modeling in Indian Languages with Accents and Intonations](papers/arxiv-2505-18609v2--9663136ad050.md)                    | arxiv       |
 | 2025-05-24T01:26:02+00:00 | arxiv:2505.18453v1 | [MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt](papers/arxiv-2505-18453v1--36ca90af9325.md)                                        | arxiv       |
 | 2025-05-12T14:25:20+00:00 | arxiv:2505.07916v1 | [MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder](papers/arxiv-2505-07916v1--113d6f2ff3ca.md)                                  | arxiv       |
-| 2025-03-26T21:30:29+00:00 | arxiv:2503.20999v2 | [Text-Driven Voice Conversion via Latent State-Space Modeling](https://arxiv.org/abs/2503.20999v2)                                                                 | arxiv       |
 
 <!-- papers-index:end -->
 
