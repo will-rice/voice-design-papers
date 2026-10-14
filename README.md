@@ -6,10 +6,11 @@ Standalone paper discovery and conversion for Voice design research papers.
 
 # Papers
 
-The 30 most recent of 52 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 53 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                              | Source      |
 | ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 2026-10-10T08:13:00+00:00 | arxiv:2610.14694v1 | [VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](papers/arxiv-2610-14694v1--34dbd449d7ba.md)                               | arxiv       |
 | 2026-10-09T04:55:49+00:00 | arxiv:2610.12993v1 | [E3-System: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS](papers/arxiv-2610-12993v1--9e4be369da5c.md)                                              | arxiv       |
 | 2026-10-08T07:59:57+00:00 | arxiv:2610.11437v1 | [Edit Who Speaks, Control How They Speak: Global Timbre Editing and Local Instruction Control for TTS](papers/arxiv-2610-11437v1--d90640788929.md)                 | arxiv       |
 | 2026-09-11T15:05:20+00:00 | arxiv:2609.12945v1 | [StepAudio 3 Gen Technical Report](papers/arxiv-2609-12945v1--5dbc3368bdc9.md)                                                                                     | arxiv       |
@@ -39,7 +40,6 @@ The 30 most recent of 52 papers. Every paper is listed in [papers.csv](papers.cs
 | 2025-06-03T15:31:16+00:00 | arxiv:2506.02997v1 | [Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation](papers/arxiv-2506-02997v1--4ce36bb07f7e.md)                              | arxiv       |
 | 2025-05-25T04:43:17+00:00 | arxiv:2505.18972v1 | [Revival with Voice: Multi-modal Controllable Text-to-Speech Synthesis](papers/arxiv-2505-18972v1--45378007fe05.md)                                                | arxiv       |
 | 2025-05-24T09:16:14+00:00 | arxiv:2505.18609v2 | [RASMALAI: Resources for Adaptive Speech Modeling in Indian Languages with Accents and Intonations](papers/arxiv-2505-18609v2--9663136ad050.md)                    | arxiv       |
-| 2025-05-24T01:26:02+00:00 | arxiv:2505.18453v1 | [MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt](papers/arxiv-2505-18453v1--36ca90af9325.md)                                        | arxiv       |
 
 <!-- papers-index:end -->
 
