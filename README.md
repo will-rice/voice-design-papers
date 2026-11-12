@@ -6,10 +6,11 @@ Standalone paper discovery and conversion for Voice design research papers.
 
 # Papers
 
-The 30 most recent of 54 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
+The 30 most recent of 55 papers. Every paper is listed in [papers.csv](papers.csv) and converted under [papers/](papers/).
 
 | Published                 | Identifier         | Title                                                                                                                                                              | Source      |
 | ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| 2026-11-10T10:04:47+00:00 | arxiv:2611.13845v1 | [Alania-2: Turkish text-to-speech with instant and fine-tuned voice cloning](papers/arxiv-2611-13845v1--0499c66acb76.md)                                           | arxiv       |
 | 2026-11-03T04:08:32+00:00 | arxiv:2611.04282v1 | [TTSonic: A Unified Framework for Composable and Controllable Speech Generation](papers/arxiv-2611-04282v1--c2351222fb67.md)                                       | arxiv       |
 | 2026-10-10T08:13:00+00:00 | arxiv:2610.14694v1 | [VoTSpeech: Decoupling Voice Design from Speech Generation in Instruction-Following TTS](papers/arxiv-2610-14694v1--34dbd449d7ba.md)                               | arxiv       |
 | 2026-10-09T04:55:49+00:00 | arxiv:2610.12993v1 | [E3-System: Expressive EmoData, Explicitly Controllable, Easy-to-Use TTS](papers/arxiv-2610-12993v1--9e4be369da5c.md)                                              | arxiv       |
@@ -39,7 +40,6 @@ The 30 most recent of 54 papers. Every paper is listed in [papers.csv](papers.cs
 | 2025-06-19T15:08:01+00:00 | arxiv:2506.16381v1 | [InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems](papers/arxiv-2506-16381v1--be89a75cd6e3.md)               | arxiv       |
 | 2025-06-06T02:34:29+00:00 | arxiv:2506.05688v3 | [Voice Impression Control in Zero-Shot TTS](papers/arxiv-2506-05688v3--2f0bf6b7652a.md)                                                                            | arxiv       |
 | 2025-06-03T15:31:16+00:00 | arxiv:2506.02997v1 | [Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation](papers/arxiv-2506-02997v1--4ce36bb07f7e.md)                              | arxiv       |
-| 2025-05-25T04:43:17+00:00 | arxiv:2505.18972v1 | [Revival with Voice: Multi-modal Controllable Text-to-Speech Synthesis](papers/arxiv-2505-18972v1--45378007fe05.md)                                                | arxiv       |
 
 <!-- papers-index:end -->
 
