@@ -2,6 +2,9 @@
 
 Standalone paper discovery and conversion for Voice design research papers.
 
+Browse the collection on alphaXiv:
+https://www.alphaxiv.org/shared/folder/01a0f2cc-f99b-7146-88d3-8a100d47c957
+
 <!-- papers-index:start -->
 
 # Papers
